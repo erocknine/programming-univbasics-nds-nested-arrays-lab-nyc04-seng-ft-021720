@@ -24,7 +24,7 @@ def assembled_matrix
 end
 
 def sorted_matrix
-  storage_room.sort()
+  assembled_matrix.sort()
   storage_room
 end
 # Using Array literal syntax only, build another nested array that 
