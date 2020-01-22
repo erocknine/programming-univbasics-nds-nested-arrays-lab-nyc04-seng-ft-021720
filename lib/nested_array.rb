@@ -25,7 +25,6 @@ end
 
 def sorted_matrix
   assembled_matrix.sort()
-  storage_room
 end
 # Using Array literal syntax only, build another nested array that 
   # uses the arrays of conventional and organic produce as before.
